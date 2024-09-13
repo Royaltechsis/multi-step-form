@@ -1,4 +1,4 @@
-import { ReactElement, useState } from "react";
+import react, { ReactElement, useState } from "react";
 //pulse labs
 export function MultiStep(steps: ReactElement[]){
     const [currentStepIndex, setCurrentStepIndex] = useState(0);
