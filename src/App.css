@@ -1,0 +1,18 @@
+/* @import "~@fortawesome/fontawesome-free/css/all.min.css"; */
+
+*{
+  padding:0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.side-bar{
+  background-image: url('./assets/images/bg-sidebar-desktop.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+}
+.numb{
+  border-radius: 100%;
+  padding: 12px;
+}
