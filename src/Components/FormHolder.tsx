@@ -1,4 +1,4 @@
-import  react, { ReactNode } from "react";
+import  { ReactNode } from "react";
 
 function FormHolder({children}:{children:ReactNode}){
     return(

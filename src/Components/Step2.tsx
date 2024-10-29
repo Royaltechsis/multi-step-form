@@ -1,4 +1,4 @@
-import  react, { useState } from "react";
+import   { useState } from "react";
 import IconArcade from "../assets/images/icon-arcade.svg";
 import IconAdvanced from "../assets/images/icon-advanced.svg";
 import IconPro from "../assets/images/icon-pro.svg";
