@@ -1,4 +1,4 @@
-import react,  { ReactNode } from "react";
+import  { ReactNode } from "react";
 import Form from "./Components/form";
 import "./App.css"
 
